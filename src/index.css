@@ -1,0 +1,5 @@
+
+* { box-sizing: border-box; font-family: Arial, sans-serif; }
+body { margin: 0; background: #f4f6f8; }
+.app { display: flex; }
+.content { flex: 1; padding: 16px; }
